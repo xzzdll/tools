@@ -1,7 +1,8 @@
 {
   "name": "tools",
   "version": "1.0.0",
-  "description": "",
+  "description": "tools for John",
+  "repository": "https://github.com/xzzdll/tools.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
